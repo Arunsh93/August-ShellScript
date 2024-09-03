@@ -1,0 +1,25 @@
+total 76
+-rwxrwxrwx. 1 ec2-user ec2-user 130 Aug 14 18:02 fact.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 236 Aug 14 18:04 pass3arg.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 223 Aug 14 18:05 FileorDir.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 341 Aug 14 18:21 odd_even.sh
+-rw-r--r--. 1 ec2-user ec2-user 200 Aug 14 18:24 log3
+-rw-r--r--. 1 ec2-user ec2-user 105 Aug 14 18:42 data
+-rwxrwxrwx. 1 ec2-user ec2-user 277 Aug 14 19:23 check_disksize.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 109 Aug 14 19:30 big2.sh
+-rw-r--r--. 1 root     root       9 Aug 14 20:18 log1234
+-rw-r--r--. 1 root     root      16 Aug 14 20:24 log_fact
+-rwxrwxrwx. 1 ec2-user ec2-user 212 Aug 15 12:38 checkage.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  97 Aug 18 14:46 addnumber.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 152 Aug 18 15:06 factusingfor.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 105 Aug 18 15:28 bign.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 114 Aug 18 15:37 smallestn.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 276 Aug 18 16:04 secondsmall.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 274 Aug 18 16:14 secondbiggest.sh
+-rwxrwxrwx. 1 ec2-user ec2-user 226 Aug 19 05:58 case-example1.sh
+-rw-r--r--. 1 ec2-user ec2-user   0 Aug 19 06:14 file_2
+-rw-r--r--. 1 ec2-user ec2-user   0 Aug 19 06:14 file_1
+-rw-r--r--. 1 ec2-user ec2-user   0 Aug 19 06:14 file1-backup
+-rw-r--r--. 1 ec2-user ec2-user   0 Aug 19 06:14 file2-backup
+-rwxrwxrwx. 1 ec2-user ec2-user 679 Aug 19 06:19 menu-based.sh
+-rw-r--r--. 1 ec2-user ec2-user   0 Aug 19 06:19 log-list
